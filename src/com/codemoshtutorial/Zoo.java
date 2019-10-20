@@ -13,11 +13,13 @@ public class Zoo {
         Bird bird = new Bird("Jed", 3, 10, "male");
         Fish fish = new Fish("Susie", 1, 3, "female");
 
-        bird.fly();
-        bird.eat();
-        bird.animalInfo();
 
-        fish.swim();
+
+        Chicken chick = new Chicken("Chuck", 4, 10, "femaile");
+
+        chick.fly();
+
+
 
     }
 }

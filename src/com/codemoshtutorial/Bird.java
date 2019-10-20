@@ -9,7 +9,7 @@ public class Bird extends Animal {
         this.gender = gender;
     }
 
-    public void fly(){
-        System.out.println("Flying...");
-    }
+//    public void fly(){
+//        System.out.println("Flying...");
+//    }
 }
